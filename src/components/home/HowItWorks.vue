@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { steps, stepsHeading } from '@/data/steps'
 import { media } from '@/data/media'
-import BaseButton from '@/components/ui/BaseButton.vue'
+import GetStartedButton from '@/components/ui/GetStartedButton.vue'
 import SectionHeading from '@/components/ui/SectionHeading.vue'
 import StepItem from './StepItem.vue'
 </script>
@@ -25,14 +25,13 @@ import StepItem from './StepItem.vue'
           :subtitle="stepsHeading.subtitle"
           inverted
         />
-        <BaseButton
-          :to="stepsHeading.cta.to"
+        <GetStartedButton
           variant="inverse"
           size="lg"
           class="self-start focus-visible:outline-white lg:self-auto"
         >
           {{ stepsHeading.cta.label }}
-        </BaseButton>
+        </GetStartedButton>
       </div>
 
       <div class="relative mt-16">

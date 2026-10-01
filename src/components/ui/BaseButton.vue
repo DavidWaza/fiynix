@@ -15,8 +15,10 @@ const props = withDefaults(
     href?: string
     type?: 'button' | 'submit' | 'reset'
     block?: boolean
+    /** External links open in a new tab unless this is false */
+    newTab?: boolean
   }>(),
-  { variant: 'primary', size: 'md', type: 'button', block: false },
+  { variant: 'primary', size: 'md', type: 'button', block: false, newTab: true },
 )
 
 const variants: Record<Variant, string> = {
@@ -45,7 +47,13 @@ const classes = computed(() => [
 
 <template>
   <RouterLink v-if="to" :to="to" :class="classes"><slot /></RouterLink>
-  <a v-else-if="href" :href="href" :class="classes" target="_blank" rel="noopener noreferrer">
+  <a
+    v-else-if="href"
+    :href="href"
+    :class="classes"
+    :target="newTab ? '_blank' : undefined"
+    :rel="newTab ? 'noopener noreferrer' : undefined"
+  >
     <slot />
   </a>
   <button v-else :type="type" :class="classes"><slot /></button>

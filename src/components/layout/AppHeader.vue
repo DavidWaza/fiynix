@@ -2,10 +2,10 @@
 import { computed, ref, useId, watch } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import { useWindowScroll } from '@vueuse/core'
-import { mainNav, primaryCta } from '@/data/navigation'
+import { mainNav } from '@/data/navigation'
 import { isNavGroup } from '@/types'
 import AppLogo from '@/components/ui/AppLogo.vue'
-import BaseButton from '@/components/ui/BaseButton.vue'
+import GetStartedButton from '@/components/ui/GetStartedButton.vue'
 import MobileMenu from './MobileMenu.vue'
 import NavDropdown from './NavDropdown.vue'
 
@@ -58,14 +58,11 @@ watch(
       </nav>
 
       <div class="flex items-center gap-2">
-        <BaseButton
-          :to="primaryCta.to"
+        <GetStartedButton
           :variant="transparent ? 'inverse' : 'primary'"
           size="sm"
           :class="['hidden sm:inline-flex', transparent && 'focus-visible:outline-white']"
-        >
-          {{ primaryCta.label }}
-        </BaseButton>
+        />
 
         <button
           type="button"

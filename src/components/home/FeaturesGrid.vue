@@ -18,21 +18,10 @@ const { visible } = useReveal(list, 0.1)
     </div>
 
     <div class="page-container">
-      <header class="mx-auto max-w-2xl text-center">
-        <p
-          class="eyebrow inline-flex items-center gap-2 rounded-full bg-primary-soft/60 px-3.5 py-1.5 text-primary-dark ring-1 ring-primary/15"
-        >
-          {{ featuresHeading.eyebrow }}
-        </p>
-        <h2
-          id="features-title"
-          class="mt-5 text-3xl leading-tight font-bold tracking-tight sm:text-4xl lg:text-5xl"
-        >
-          {{ featuresHeading.title }}
-        </h2>
-      </header>
+      <!-- The live site shows no heading here; keep one for screen readers -->
+      <h2 id="features-title" class="sr-only">{{ featuresHeading.title }}</h2>
 
-      <ul ref="list" class="mt-14 grid gap-5 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">
+      <ul ref="list" class="grid gap-5 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">
         <!-- staggered entrance lives on the <li> so card hover transitions stay instant -->
         <li
           v-for="(feature, i) in features"

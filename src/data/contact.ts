@@ -9,7 +9,7 @@ export const contactMeta: PageMeta = {
 export const contactHero = {
   eyebrow: 'Contact',
   title: 'How can we help?',
-  body: 'We answer most messages within two hours, and transfer issues are handled 24/7.',
+  body: 'Most messages get a reply within two hours. transfer problems are handled around the clock',
 }
 
 export interface ContactField {

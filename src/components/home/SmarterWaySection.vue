@@ -27,11 +27,13 @@ import StoreBadges from '@/components/ui/StoreBadges.vue'
       </div>
 
       <figure class="relative">
-        <div class="relative aspect-4/5 overflow-hidden rounded-3xl shadow-card-hover">
+        <div class="relative aspect-3/2 overflow-hidden rounded-3xl shadow-card-hover">
           <img
             :src="media.ladyPhone"
+            :srcset="media.ladyPhoneSrcset"
+            sizes="(min-width: 1024px) 36rem, 100vw"
             :alt="smarterWay.imageAlt"
-            width="800"
+            width="1440"
             height="960"
             loading="lazy"
             decoding="async"

@@ -2,11 +2,11 @@
 import { ref, toRef, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 import { onKeyStroke, useScrollLock } from '@vueuse/core'
-import { mainNav, primaryCta } from '@/data/navigation'
+import { mainNav } from '@/data/navigation'
 import { isNavGroup } from '@/types'
 import { useFocusTrap } from '@/composables/useFocusTrap'
 import AppLogo from '@/components/ui/AppLogo.vue'
-import BaseButton from '@/components/ui/BaseButton.vue'
+import GetStartedButton from '@/components/ui/GetStartedButton.vue'
 import StoreBadges from '@/components/ui/StoreBadges.vue'
 
 const props = defineProps<{ open: boolean; id: string }>()
@@ -110,9 +110,7 @@ onKeyStroke('Escape', () => {
         </nav>
 
         <div class="space-y-5 border-t border-ink/10 px-4 py-6 sm:px-6">
-          <BaseButton :to="primaryCta.to" block @click="emit('close')">
-            {{ primaryCta.label }}
-          </BaseButton>
+          <GetStartedButton block @click="emit('close')" />
           <StoreBadges />
         </div>
       </div>

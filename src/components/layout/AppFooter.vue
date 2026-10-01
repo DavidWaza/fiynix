@@ -15,7 +15,6 @@ const year = new Date().getFullYear()
       <div class="grid gap-12 lg:grid-cols-12">
         <div class="lg:col-span-4">
           <AppLogo size="lg" />
-          <p class="mt-5 max-w-xs text-sm leading-relaxed">{{ site.defaultDescription }}</p>
           <div class="mt-6">
             <StoreBadges />
           </div>
