@@ -1,0 +1,25 @@
+// DELETE MY ACCOUNT — paste the official, approved text into this file.
+//
+// Follows the live page (fiynix.com/delete-my-account) as a plain-language STAND-IN.
+// The request form itself is rendered below this text by the page (DeleteAccountForm.vue).
+//
+// Format: ## section · ### sub-heading · - or • bullets · blank line = new paragraph
+
+We respect your privacy and your right to control your personal information. To permanently delete your Fiynix account, send us a request using the form below.
+
+## What happens when you delete your account
+
+Deleting your account will:
+- Permanently close your Fiynix account
+- Remove your access to the Fiynix app
+- Delete or anonymise your personal information where the law allows
+- Cancel any pending transfers that have not been processed yet
+- Remove your saved recipients and payment methods
+
+Fiynix may keep some records after deletion where the law requires it, for example for anti-money-laundering (AML), fraud prevention, tax, accounting or other regulatory obligations.
+
+## Request account deletion
+
+Fill in your full name, email address and phone number. Telling us why you're leaving is optional. Once we receive your request, we'll verify your identity and process it as quickly as we can.
+
+Questions? Email info@fiynix.com.

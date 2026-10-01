@@ -1,0 +1,123 @@
+// GRAND JUNCTION GUIDELINES — paste the official, approved text into this file.
+//
+// Follows the sections of the live page (fiynix.com/grand-junction-guideline) as a
+// plain-language STAND-IN that keeps every rule and figure. Replace with the official
+// wording, word for word, before launch.
+//
+// Format: ## section · ### sub-heading · - or • bullets · blank line = new paragraph
+
+Fiynix Corp dba Fiynix Remittance.
+
+## Purpose and overview
+
+Grand Junction is a controlled marketplace inside Fiynix Remittance where eligible users can post and accept money transfer offers within set limits. It is built to give users transparency, choice and efficiency while keeping strong compliance, fraud prevention and regulatory safeguards in place.
+
+## Eligibility and access
+
+Grand Junction is open only to Fiynix users who:
+- Have passed Fiynix's identity verification, account validation and compliance screening
+- Keep their account in good standing
+- Have completed at least one standard Fiynix remittance
+
+Participants deal with each other through unique usernames. Other participants never see your legal name, contact details, financial information or other personal information, unless the law requires it to be disclosed.
+
+Fiynix keeps the verified identity and transaction records behind each username and may use them for processing, fraud prevention, regulatory reporting, investigations and legal compliance.
+
+Fiynix may restrict, suspend or remove a user's access to Grand Junction for compliance, fraud, security, operational or risk reasons.
+
+## Posting limits and requirements
+
+Fiynix shows a reference exchange rate for each supported corridor. When you post an offer, the allowed rate range is 2% above to 2% below the reference rate shown at that moment, and your offer must fall inside it.
+
+The reference rate and range stay valid until Fiynix updates the displayed rate. Fiynix does not promise the rate will change on any particular day or schedule; when it does change, it is usually updated in the early morning.
+
+After each update, Fiynix recalculates the ±2% range and reviews all active unmatched offers. Any unmatched amount that now falls outside the range expires automatically and can no longer be matched.
+
+For a partly matched offer, only the unmatched remainder expires. Matches confirmed before the update keep the rate and terms agreed for them, along with all legal cancellation, refund and error-resolution rights.
+
+Fiynix will tell you when an offer expires, and you can post a new one within the updated range. There is no fee just because an unmatched offer expired after a rate update.
+
+## Offer validity period
+
+Fiynix does not guarantee that an offer will be matched or will stay available after a rate update. Offers may stay active, be partly matched, or be removed by Fiynix for operational, compliance, fraud-prevention, liquidity, pricing, security or risk reasons.
+
+You can cancel the unmatched part of your offer any time before another participant accepts it. Once a match is confirmed, its rate and terms are locked, subject to the sender's legal cancellation and refund rights.
+
+A sender can ask to cancel a transfer within 30 minutes of making or authorising payment, as long as the funds have not been deposited, made available or otherwise received by the matched recipient. For a valid, timely request, Fiynix refunds what the sender paid, including fees and, where the law requires, taxes, within the legal timeframe.
+
+After the cancellation window closes, or once the recipient has the funds, the transaction generally cannot be cancelled unless the law requires it or Fiynix expressly allows it.
+
+Fiynix may delay, reject, cancel or review any offer or match for legal, regulatory, fraud-prevention, security, sanctions-screening or risk reasons. Nothing in these Guidelines limits your legal cancellation, refund or error-resolution rights.
+
+## Partial acceptance rules
+
+Partial acceptances are allowed. Partial bids must be in $100 steps, and the minimum is 25% of the posted offer or $100, whichever is greater.
+
+## Match limits and completion
+
+Each offer can be matched up to four (4) times. If a balance remains after three matches, the fourth match must take the whole remaining balance. An offer closes automatically once it is fully matched.
+
+## Fees and charges
+
+Grand Junction service fees are:
+- U.S.-side participant: USD $2.00 to USD $5.00
+- Non-U.S.-side participant: 0.50% to 1.75% of the transaction amount, depending on corridor and payout method
+
+The exact fee depends on the amount, corridor, payment method, payout method and other factors. Rates and amounts shown on offers do not include fees; every fee is disclosed before you confirm.
+
+## Acceptance, rate lock and finality
+
+Once a match is confirmed, but before anyone pays, Fiynix shows each participant a final summary of what applies to them:
+- Transfer amount
+- Matched exchange rate
+- Exact Fiynix service fee
+- Any applicable taxes
+- Total amount to pay
+- Date the funds are expected to be available
+
+Each participant can review their summary before paying, and Fiynix only takes payment after the participant confirms and authorises the total shown. Selecting "Confirm and Pay" (or similar) authorises Fiynix to process the transfer amount, fee, taxes and total. You then receive an electronic receipt with the transaction details and the required cancellation, refund, error-resolution and regulator contact information.
+
+A confirmed match's rate and terms are locked and cannot be changed or withdrawn, except as Fiynix permits or cancellation, refund and error-resolution laws require.
+
+## Payment authorisation and settlement
+
+When the sender authorises payment, the amount, agreed rate, fees and settlement instructions are locked and final, and Fiynix starts processing under its operational, compliance and settlement procedures.
+
+The sender must pay within the required payment window. Missing it can cancel the transaction, lose the matched opportunity, and lead to temporary or permanent suspension from Grand Junction.
+
+Transactions are only processed after payment is authorised and verified, and Fiynix may delay, review or cancel them for fraud, security or regulatory reasons. Unless the law requires it or Fiynix expressly allows it, completed or funded Grand Junction transactions cannot be cancelled, reversed or refunded.
+
+## Compliance monitoring
+
+Fiynix uses risk-based monitoring, automated controls and regulatory screening, including KYC, AML and OFAC checks. Transactions may be reviewed, delayed, frozen or declined to comply with the law.
+
+## Prohibited activities
+
+Grand Junction may not be used for unlawful purposes, price manipulation, third-party or commercial arbitrage, or getting around platform safeguards. Breaking these rules can lead to suspension or closure of your account.
+
+## User responsibility
+
+You send funds to the username you are matched with. Before accepting, check the username, rate, amount, fees and terms carefully.
+
+Every participant has completed Fiynix's identity and compliance checks and at least one standard remittance, but you only see usernames, not anyone's legal name, contact details, financial or other personal information. Only accept a match if you are comfortable going ahead based on what Grand Junction shows you.
+
+Do not try to contact other participants, arrange payment outside Fiynix, or get around Fiynix's transaction and compliance controls. Fiynix may review, delay, reject or cancel a match for fraud, security, risk or legal reasons. Nothing here limits your legal cancellation, refund or error-resolution rights.
+
+## Limitation of liability
+
+Fiynix is not liable for delays or failures caused by regulatory review, partner processing delays, force majeure events or other factors beyond its control.
+
+## Platform rights
+
+Fiynix may review, limit, reject, suspend or cancel any offer or transaction to protect the platform, prevent fraud or stay compliant.
+
+## Amendments
+
+Fiynix may update these Guidelines at any time. Continuing to use Grand Junction means you accept the updates.
+
+## Contacts and complaints
+
+For questions or concerns about Grand Junction, contact Fiynix Remittance:
+- Email: info@fiynix.com
+
+If your issue is not resolved, you can contact your state's financial regulatory authority.

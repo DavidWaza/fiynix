@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 720" preserveAspectRatio="xMidYMid slice" fill="none">
+  <!-- Placeholder decorative background for the "How it works" banner. -->
+  <rect width="1440" height="720" fill="#111111"/>
+  <circle cx="1320" cy="-40" r="340" fill="#F26B1D" fill-opacity="0.22"/>
+  <circle cx="1320" cy="-40" r="220" fill="#F26B1D" fill-opacity="0.18"/>
+  <circle cx="60" cy="760" r="300" fill="#F26B1D" fill-opacity="0.14"/>
+  <g stroke="#FFFFFF" stroke-opacity="0.06">
+    <path d="M0 180H1440M0 360H1440M0 540H1440M240 0V720M480 0V720M720 0V720M960 0V720M1200 0V720"/>
+  </g>
+</svg>

@@ -1,0 +1,109 @@
+// REGULATORY OVERVIEW — paste the official, approved text into this file.
+//
+// The headings below follow the live page (fiynix.com/regulatory-overview). The text
+// under each heading is a plain-language STAND-IN that keeps the facts and figures.
+// Replace it with the official wording, word for word, before launch.
+//
+// Format:
+//   ## Heading          → section (shown in "On this page")
+//   ### Sub-heading     → sub-section
+//   - item  or  • item  → bullet point
+//   blank line          → new paragraph
+//   // ...             → comment, not shown
+
+Company name: Fiynix Corp. Doing business as: Fiynix Remittance.
+
+## Purpose of the application
+
+Fiynix Remittance is a digital money transmission platform for secure, transparent and efficient cross-border transfers from the United States to approved international corridors. It lets people send money to family, friends and trusted recipients abroad in a compliant, cost-effective way, backed by strong anti-fraud, anti-money-laundering and consumer protection controls.
+
+Fiynix Remittance operates as a licensed Money Services Business and is committed to meeting all applicable federal and state money transmission rules, including the Bank Secrecy Act (BSA), Anti-Money Laundering (AML), Know Your Customer (KYC) and Office of Foreign Assets Control (OFAC) requirements.
+
+## Core functionality of the application
+
+### User registration and verification
+Users create an account and verify their identity before sending money. We may ask for name, address, date of birth, contact details and identity documents, and run KYC, AML and OFAC screening.
+
+### Funding, wallets and payment methods
+Customers can fund an in-app wallet with an approved U.S. debit card or an ACH transfer from a verified U.S. bank account in their own name. Once a top-up is authorised, verified and available, the wallet balance can be used for eligible remittance transfers and Grand Junction transactions.
+
+Fiynix does not currently accept credit cards, cash or unauthorised third-party funding. Wallet funding and transactions are subject to account-ownership checks, payment authorisation, funds availability, funding holds, transaction limits, fraud controls and compliance review.
+
+### Disbursement methods
+Recipients can be paid by bank deposit, mobile wallet transfer or cash pickup, depending on the corridor and partner capabilities. All payouts go through regulated financial institutions or licensed payout partners in the destination country.
+
+### Transaction monitoring and compliance controls
+Risk-based monitoring looks for suspicious or unusual activity. Transactions may be reviewed, delayed or declined to stay compliant, and every transaction is screened against relevant sanctions lists and watchlists before it completes.
+
+## Grand Junction (structured matching)
+
+Grand Junction gives verified users more flexibility in choosing transfer options while keeping strict compliance safeguards. Users can post or accept transfer offers within a controlled range around the reference rate shown in the app. It is not a currency trading or speculative exchange platform: every matched transaction is executed by Fiynix as a licensed money transmission.
+
+### Key operational controls
+Only fully verified users with accounts in good standing can take part:
+- Users must pass identity verification, account validation and compliance screening, and complete at least one standard Fiynix remittance first.
+- Posted offer rates must stay within ±2% of the Fiynix reference rate for that corridor.
+- Offers range from USD $100 to USD $3,000, in USD $100 steps.
+- Partial bids are allowed, also in USD $100 steps, with a minimum of USD $100 or 25% of the original offer, whichever is greater.
+- Each offer can be matched up to four times.
+- After a partial match, the creator can keep the rest open or close the offer; a final match can take the remaining balance.
+- Offers close automatically when fully matched, and otherwise stay open until closed by the creator, expired after a reference-rate update, or removed by Fiynix.
+- Fiynix may update a corridor's reference rate but does not guarantee it will change on any particular day or schedule.
+- After a rate update, Fiynix recalculates the ±2% range; unmatched offers that fall outside it expire automatically.
+- For partly matched offers, only the unmatched part expires. Confirmed matches keep their agreed rate and terms, subject to cancellation, refund and error-resolution rights.
+- Affected users are notified and can post a new offer within the updated range. No fee is charged just because an offer expired after a rate update.
+- Grand Junction volume limits: USD $3,000 per day, USD $9,000 per week and USD $12,000 per month.
+- Fiynix may remove inactive, stale, suspicious, fraudulent or non-compliant offers.
+- Fiynix may ask for more information, documents or source-of-funds checks before approving, matching, processing or completing any Grand Junction transaction.
+- All Grand Junction activity goes through Fiynix's AML, sanctions screening, fraud detection, monitoring and compliance review.
+
+### Fees, pre-payment disclosures and consumer authorisation
+Grand Junction fees are USD $2.00–$5.00 for the U.S.-side participant and 0.50%–1.75% of the transaction amount for the non-U.S.-side participant. Exact fees depend on amount, corridor, payment method, payout method and other factors.
+
+Rates and amounts shown on offers exclude fees. After a match is confirmed, and before any payment is authorised, each participant sees a final summary showing, as applicable, the transfer amount, matched rate, exact Fiynix fee, taxes, total payment and expected availability date.
+
+Confirming a match does not authorise payment. Fiynix only takes payment after the participant reviews the summary and approves the total, then issues an electronic receipt with the transaction details and the required cancellation, refund, error-resolution and regulator contact information.
+
+Senders can ask to cancel within 30 minutes of authorising payment, as long as the funds have not been deposited, made available or received by the matched recipient. Valid refunds are paid within the time the law requires, and nothing in the Grand Junction terms limits these legal rights.
+
+### Funding and settlement structure
+U.S. customers fund their wallets with approved U.S. debit cards or ACH transfers from verified U.S. bank accounts in their own names. Once a top-up is authorised, verified and settled or made available, the balance can fund eligible traditional transfers and Grand Junction transactions.
+
+For a Grand Junction transaction, Fiynix confirms the match and shows a final summary of the matched rate, amount, fees, total payment and amount to be received. It only proceeds once the participant approves payment from their available wallet balance.
+
+Fiynix then settles to the matched recipient through an approved payout channel: an ACH credit to a verified U.S. bank account where applicable, or, for international recipients, bank deposit, mobile wallet, cash pickup or another method supported by licensed payout partners.
+
+Fiynix keeps control of, and responsibility for, moving funds through its regulated payment flow. Participants may not exchange funds directly, settle outside the platform, or get around Fiynix's payment, fraud, sanctions or compliance controls.
+
+### Compliance and risk controls
+Grand Junction transactions follow the same AML, KYC, OFAC and monitoring controls as every other Fiynix remittance. Fiynix can review, delay, decline or cancel any posting or transaction to prevent fraud, stay compliant or protect consumers.
+
+## Scope of services
+
+Fiynix Remittance currently provides:
+- Person-to-person international money transmission
+- Traditional remittance transfers and structured matching through Grand Junction
+- An in-app Fiynix wallet for eligible transactions on the platform
+- Wallet funding by approved U.S. debit card or ACH transfer from a verified U.S. bank account in the customer's name
+- Payout by bank deposit, mobile wallet, cash pickup and other supported channels
+- Digital onboarding, identity verification and account validation
+- Rate, fee and transaction disclosures before payment is authorised
+- Transaction tracking, electronic receipts and transaction history
+- Cancellation, refund and error-resolution processes
+- Customer support and complaint handling
+- Compliance monitoring, fraud prevention and regulatory reporting
+
+Fiynix does not currently provide:
+- Bank deposit accounts. The Fiynix wallet is a payment feature for eligible transactions on the platform, not a bank account, and remains subject to Fiynix terms, limits, compliance controls and regulation.
+- Lending
+- Currency trading or speculative exchange
+- Investment or brokerage services
+
+## Compliance commitment
+
+Fiynix Remittance is committed to full compliance with all applicable federal and state money transmission and consumer protection laws, and maintains internal policies and procedures for AML compliance, transaction monitoring, recordkeeping and regulatory reporting.
+
+## Contact information
+
+Fiynix Corp dba Fiynix Remittance
+- Email: info@fiynix.com

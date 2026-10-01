@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" fill="none">
+  <!-- Placeholder for a photo of a woman using her phone. Replace with lady-phone.webp/.jpg. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7A46B"/>
+      <stop offset="1" stop-color="#8A3A10"/>
+    </linearGradient>
+    <radialGradient id="light" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 180) scale(420)">
+      <stop stop-color="#FFE7D2" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#FFE7D2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="960" fill="url(#bg)"/>
+  <rect width="800" height="960" fill="url(#light)"/>
+  <!-- silhouette -->
+  <g fill="#3B1A08" fill-opacity="0.85">
+    <ellipse cx="400" cy="360" rx="120" ry="140"/>
+    <path d="M250 330c0-130 70-200 150-200s150 70 150 200c0 90-20 150-20 230H270c0-80-20-140-20-230Z"/>
+    <path d="M140 960c10-210 110-330 260-330s250 120 260 330H140Z"/>
+  </g>
+  <!-- phone in hand -->
+  <rect x="455" y="560" width="110" height="200" rx="18" fill="#111111"/>
+  <rect x="465" y="572" width="90" height="176" rx="12" fill="#F26B1D"/>
+  <path d="M440 760c20-50 60-70 90-60s30 60 10 90" stroke="#3B1A08" stroke-width="40" stroke-linecap="round"/>
+</svg>

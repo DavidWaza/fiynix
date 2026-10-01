@@ -1,0 +1,235 @@
+// TERMS & CONDITIONS — paste the official, approved text into this file.
+//
+// The section headings below match the live page (fiynix.com/terms-and-conditions).
+// The text under each heading is a short plain-language STAND-IN. Replace it with the
+// official wording, word for word, before launch.
+//
+// Format:
+//   ## Heading          → section (shown in "On this page")
+//   ### Sub-heading     → numbered sub-section
+//   - item  or  • item  → bullet point (one per line, or inline "Lead: • a • b")
+//   blank line          → new paragraph
+//   // ...             → comment, not shown
+
+IMPORTANT: Please read these Terms carefully before accepting. They limit Fiynix Corp DBA Fiynix Remittance's obligations and liability to you to the extent the law allows. By accessing or using the Fiynix Remittance Service you agree to these Terms and all applicable laws and regulations.
+
+## Definitions
+
+In these Terms:
+- "Fiynix", "we", "our" or "us" means Fiynix Corp, doing business as Fiynix Remittance, including agents and service providers acting on our behalf to deliver the Service.
+- "Service" means the money transmission service Fiynix provides through its mobile app.
+- "Sender" is the person starting a transfer; "Receiver" or "Recipient" is the person the Sender chooses to receive it.
+- "Transaction" means each individual transfer started through the Service.
+- "Destination Country" is the country where the Recipient receives funds.
+- "Payment Method" is how the Sender funds a Transaction, such as debit card or ACH bank transfer, depending on corridor and eligibility.
+- "Payout Partner" means the third-party financial institutions or payment providers that deliver funds to Recipients.
+- "Prohibited Purpose" means any unlawful or prohibited activity, including gambling payments, sending funds to yourself to misrepresent financial activity, transacting for a third party where not permitted, or anything that breaches law, sanctions or Fiynix compliance policies.
+- "You" or "your" means anyone using the Service, including a Sender.
+
+## 1. About us
+
+### 1.1 Who we are
+Fiynix Corp dba Fiynix Remittance is a money services business providing money transmission subject to applicable federal and state laws. Fiynix is not a bank and does not offer deposit accounts.
+
+### 1.2 Contact
+Information about Fiynix Remittance is available in the app and on our website. Contact us at info@fiynix.com.
+
+### 1.3 Banking and service partners
+Fiynix holds business deposit accounts with its depository institutions to support operations and safeguard funds awaiting transmission, and works with payment processors, identity verification providers and payout partners.
+
+## 2. Our services
+
+### 2.1 Eligibility
+The Service lets Senders make international transfers to Recipients in supported countries through our Payout Partners. You must be at least 18. Each Transaction gets a unique transfer ID.
+
+### 2.2 Authorising a Transaction
+Each request you submit is a separate instruction authorising Fiynix to process it using the information you provide. Fiynix may decline, delay, suspend or cancel a Transaction for legal, compliance, fraud-prevention or operational reasons.
+
+### 2.3 Funding methods and settlement
+Transactions may be funded by debit card or ACH bank transfer where available. Processing times vary with payment method, destination, banking hours and compliance reviews.
+
+### 2.4 Delivery methods
+Depending on destination, funds may be delivered by bank deposit or mobile wallet credit where available.
+
+### 2.5 Accuracy of Recipient details
+Fiynix sends funds using the Recipient details the Sender provides, and the Sender is responsible for their accuracy. If an account or wallet number does not match the Recipient's name, funds may go to the number provided. Fiynix is not responsible for misdirected transfers caused by incorrect details.
+
+### 2.6 Sanctions, compliance screening and regulatory holds
+Fiynix screens Transactions and parties against sanctions and restricted-party lists, including OFAC lists, and carries out AML and fraud reviews. We may ask for more information, which can delay or stop a Transaction, and may have to block, freeze or hold funds where the law requires.
+
+### 2.7 Fees and charges
+Transfer Fees and the total you will pay are shown before you authorise a Transaction, including on the review screen. The Sender pays Transfer Fees unless local law says otherwise. Recipients may be charged separately by their own bank or wallet provider; Fiynix is not responsible for those fees.
+
+### 2.8 Transfer pricing and currency conversion
+Most transfers are paid out in the destination currency. Where conversion applies, the rate (which may include a margin) is shown before you authorise. It is generally applied at processing, though some destinations finalise conversion at payout; we will say if a quoted rate is estimated or final.
+
+### 2.9 Notifications
+We may send free SMS, email or in-app updates about your Transactions and your legal rights. Your carrier may charge for messages or data, and delivery may be affected by factors outside our control.
+
+## 3. Responsibility to you
+
+### 3.1 Duty of care
+Fiynix will provide the Service in line with these Terms and applicable law and take reasonable care in processing Transactions.
+
+### 3.2 Matters outside Fiynix's responsibility
+Fiynix is not responsible for:
+- Goods or services you pay for using the Service
+- Telecommunications, internet or technology failures outside our control
+- Data loss or delays caused by third-party providers, browsers or software
+- Third-party viruses or malicious software
+- Errors caused by incomplete or incorrect information from you or a third party
+- Interception of information before it reaches our systems
+- Unauthorised access to your Transaction data, unless caused directly by Fiynix's gross negligence or wilful misconduct
+
+### 3.3 When Fiynix may decline or delay a Transaction
+We do not have to start or complete a Transaction if we cannot verify your identity, suspect it is unauthorised, fraudulent or unlawful, your information is wrong or incomplete, funding is not received, or compliance, sanctions or regulatory concerns require review. Fiynix is not liable for losses from delays or refusals that these Terms or the law permit or require.
+
+### 3.4 Right to refuse, suspend or cancel service
+As the law permits, Fiynix may refuse, suspend, delay or cancel Transactions or access to the Service where required by law or a regulator, for fraud, AML or sanctions reasons, if you breach these Terms or use the Service for a Prohibited Purpose, or to protect Fiynix, its users or the financial system. Where allowed, we will tell you.
+
+### 3.5 Transaction limits
+Fiynix may set or change limits based on verification status, history, risk, regulation and operational needs.
+
+Standard Remittance: • Daily maximum USD $3,000 • Weekly maximum USD $10,000 • Monthly maximum USD $15,000
+
+Grand Junction Remittance: • Daily maximum USD $3,000 • Weekly maximum USD $9,000 • Monthly maximum USD $12,000
+
+### 3.6 Service interruptions and force majeure
+We may limit the Service because of events outside our reasonable control: • System outages • Network or infrastructure failures • Regulatory actions • Natural disasters • Labour disputes • War, civil unrest or similar events
+
+We will make reasonable efforts to restore service quickly.
+
+### 3.7 Communications
+We communicate mainly through the app, website and email. Contact info@fiynix.com for support.
+
+## 4. Your responsibilities
+
+### 4.1 Payment authorisation
+By starting a Transaction you authorise Fiynix to charge your chosen Payment Method for the total amount, including fees and any disclosed margin.
+
+### 4.2 Funding your Transaction
+You will see the total charge and the amount the Recipient will get before you confirm. Once you authorise, we begin processing under these Terms.
+
+### 4.3 Your representations and obligations
+You confirm that:
+- Your information is true, accurate and complete
+- You will provide identity or supporting documents we reasonably request
+- You will only send money to people you know and trust
+- You will not provide false or misleading information
+- You will not use anonymising tools to hide your identity for unlawful purposes
+- You will not use the Service for a Prohibited Purpose
+- You will follow these Terms and all applicable laws
+- You will keep your login details confidential
+
+### 4.4 Unauthorised activity or errors
+Tell us immediately at info@fiynix.com if a Transaction was unauthorised, your login has been compromised, or you suspect fraud. Before we are notified, you may be responsible for losses where you acted fraudulently, intentionally or with gross negligence. Once notified, we will secure your account and investigate.
+
+### 4.5 Disclosure to authorities
+Fiynix may share information about you, your Transactions or Recipients with regulators, law enforcement, financial institutions or payment partners where the law requires or to prevent financial crime.
+
+### 4.6 Accuracy of Transaction information
+Check every detail before you confirm. Once processing or payout has started, a Transaction may not be changeable or cancellable.
+
+## 5. Customer support and error reporting
+
+Contact info@fiynix.com as soon as possible if something goes wrong. Include: • Your name • Transaction reference number • Date and amount • A description of the issue
+
+We will investigate and respond within a reasonable time and as the law requires.
+
+### 5.1 Your remittance transfer rights
+Transfers sent from the United States may carry rights under federal law. You can generally cancel within 30 minutes of paying if the funds have not been received or made available to the recipient and you give us enough information to identify the transfer. Eligible cancellations are refunded in full, including fees.
+
+Errors may include the wrong amount received, funds not delivered as disclosed, the wrong recipient receiving funds, or incorrect fees. We will investigate qualifying claims within the timeframes federal law requires.
+
+## 6. Account security and password protection
+
+Keep your username and password confidential, do not share them, and tell us immediately about any unauthorised use. You are responsible for activity on your account until you report unauthorised access, and Fiynix is not responsible for losses from failing to protect your login details.
+
+## 7. Privacy and data use
+
+Fiynix handles personal information under its Privacy Policy. By using the Service you agree to its use to verify identity, process Transactions, prevent fraud, meet legal duties and support operations and security. We may share it with payment processors, banking and payout partners, identity verification providers, and authorities where the law requires. Fiynix does not sell customer personal information. Continued use after Privacy Policy updates means you accept them.
+
+### 7.1 Payment processing and security
+Card payments go through PCI DSS–compliant processors; card data is encrypted and Fiynix does not store full card numbers or CVV codes. You authorise us and our processors to charge your payment method for authorised Transactions, subject to those providers' terms. Where Fiynix has used commercially reasonable security, it is not liable for unauthorised transactions caused by circumstances outside its reasonable control, including third-party processors.
+
+## 8. Liability
+
+### 8.1 Proper execution of Transactions
+If a Transaction fails solely because of a Fiynix error, we will refund the principal and fees unless the law requires otherwise. Unauthorised Transactions reported promptly will be investigated and refunded where the law requires.
+
+### 8.2 Limitation of liability
+To the maximum extent the law allows, Fiynix and its service providers are not liable for delays caused by payout partners, financial institutions or compliance reviews, failures of recipient providers, incorrect Sender information, interruptions outside our control, or indirect, incidental, special or consequential damages.
+
+Fiynix's total liability for any Transaction claim is limited to the Transaction amount plus fees paid, or USD $500, whichever is greater, except where the law prohibits this. Liability that cannot legally be excluded, including for fraud, gross negligence or wilful misconduct, is not excluded.
+
+### 8.3 Third-party services
+Fiynix is not responsible for the actions of third-party providers, recipient bank delays, mobile wallet providers, or government and regulatory delays.
+
+### 8.4 Force majeure
+Fiynix is not liable for failures or delays caused by events beyond its reasonable control, such as outages, network failures, regulatory action, natural disasters, civil unrest, labour disputes or government restrictions.
+
+### 8.5 Sender responsibility and fraud protection
+You are responsible for checking Recipient details, sending only to people you trust, protecting your login, and reviewing Transactions before submitting. Fiynix is not liable for losses from sending to unknown people, third-party scams, or incorrect details you provide.
+
+### 8.6 No warranty on external goods or services
+Fiynix does not guarantee goods or services paid for with the Service; resolve disputes directly with the seller.
+
+### 8.7 Claims
+Claims must include the Transaction reference, supporting documents and a description of the issue, and be made within a reasonable time.
+
+## 9. Intellectual property
+
+All Fiynix content, trademarks, logos, software and designs belong to Fiynix Corp or its licensors. Use the Service only for lawful personal remittances. You may not copy, modify, distribute or reverse engineer the Service, use automated tools to access it, use Fiynix branding without written permission, or resell the Service without authorisation. All rights not expressly granted are reserved.
+
+## 10. Links to third-party services
+
+Links to third-party sites are for convenience only. Fiynix does not control or endorse them and is not responsible for their services; use them at your own risk.
+
+## 11. Right to cancel, refunds and error resolution
+
+### 11.1 Thirty-minute cancellation right
+Subject to federal law, you can generally cancel within 30 minutes of paying, provided the funds have not been received by, deposited for or made available to the recipient. Eligible cancellations are refunded in full, including fees.
+
+### 11.2 Cancellation after the thirty-minute period
+After 30 minutes, or once funds are available to the recipient, a Transaction generally cannot be cancelled unless the law requires or Fiynix permits it.
+
+### 11.3 Refunds
+Approved refunds generally go back to the original Payment Method. Timing depends on the funding method, partners, processor and compliance reviews.
+
+### 11.4 Error resolution
+Report suspected errors promptly with your name, Transaction reference, date, amount and a description. We will investigate and resolve qualifying claims under applicable federal and state law.
+
+### 11.5 Exceptions
+Some cancellation or error rights may not apply where the law permits, for example in cases of fraud, regulatory restrictions, sanctions compliance, or where the recipient has already received the funds.
+
+## 12. Entire agreement
+
+These Terms, with the disclosures and policies they reference, are the entire agreement between you and Fiynix about the Service and replace any earlier agreements.
+
+## 13. Severability
+
+If any provision is found invalid or unenforceable, the rest remain in full effect.
+
+## 14. Complaints, regulatory disclosure and governing law
+
+### 14.1 Customer support and complaints
+Please contact us first with any question, concern or complaint at info@fiynix.com. We will acknowledge and respond within a reasonable time and as federal and state rules require.
+
+### 14.2 Escalation to state regulators
+If your complaint is not resolved, you can contact the financial regulator in your state of residence or the state where the Transaction took place. Fiynix will cooperate fully with state regulators.
+
+### 14.3 Regulatory disclosure
+Fiynix Corp dba Fiynix Remittance is a licensed Money Services Business subject to U.S. federal and state law. Fiynix Remittance is not a bank. Funds sent for transmission are not deposits and are not FDIC insured.
+
+### 14.4 Governing law
+These Terms are governed by U.S. law and the applicable laws of the states where Fiynix operates, without regard to conflict-of-law principles. Information about your Remittance Transfer Rights, including the 30-minute cancellation right and error reporting, is available in the app and on our website.
+
+## 15. Compliance and account review
+
+Fiynix runs a compliance programme to prevent fraud, money laundering, terrorist financing and other unlawful activity. Where the law requires, and sometimes without prior notice, we may: • Request more identity verification • Delay or cancel transactions • Refuse service • Report suspicious activity • Freeze or block transactions
+
+## 16. Third-party delivery partners
+
+Fiynix uses licensed payout partners and financial institutions to deliver funds. Delivery times can vary with: • Destination country • Banking hours • Mobile wallet providers • Compliance reviews • Local regulations
+
+Fiynix is not responsible for delays caused by recipient banks, mobile wallet providers or local clearing systems.

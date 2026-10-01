@@ -1,0 +1,58 @@
+// YOUR TRANSFER RIGHTS — paste the official, approved text into this file.
+//
+// Follows the sections of the live page (fiynix.com/your-transfer-right) as a
+// plain-language STAND-IN that keeps every condition. Replace with the official
+// wording, word for word, before launch.
+//
+// Format: ## section · ### sub-heading · - or • bullets · blank line = new paragraph
+
+Fiynix Remittance aims to make international transfers simple, transparent and secure. If you send money from the United States with our Service, federal law may give you important rights.
+
+## Your right to cancel
+
+You can often cancel a remittance transfer within 30 minutes of paying for it.
+
+### To be eligible for cancellation
+All four of these must be true when you ask us to cancel:
+- You ask within 30 minutes of paying.
+- The recipient has not already received the money.
+- The money has not been deposited into the recipient's account or otherwise made available to them.
+- You give us enough information to identify your transfer.
+
+If your request qualifies, Fiynix will refund what you paid, including any transfer fees, as the law requires.
+
+## Reporting an error
+
+If you think something went wrong with your transfer, tell us as soon as you can. Errors you can report include:
+- The recipient got the wrong amount.
+- A processing error sent the money to the wrong recipient.
+- Your transfer was not delivered as disclosed.
+- You were charged the wrong fees.
+
+### How to report an error
+Contact us as soon as you notice a problem at info@fiynix.com. Please include:
+- Your full name
+- The transaction reference number
+- The date of the transfer
+- The recipient's name
+- A short description of the problem
+
+## When cancellation or a refund may not be available
+
+Some transfers cannot be cancelled, for example when:
+- The recipient has already received the money.
+- The money has already been deposited into the recipient's bank account or mobile wallet.
+- The transfer has otherwise been completed.
+- The law or regulatory requirements prevent cancellation.
+
+## Compliance reviews
+
+To protect customers and follow the law, Fiynix may briefly delay or hold a transfer while we complete identity verification, fraud prevention, anti-money-laundering (AML), sanctions screening or other regulatory checks. If we need more information, we'll let you know promptly.
+
+## Need help?
+
+Email info@fiynix.com.
+
+## Our commitment to you
+
+Fiynix is committed to secure, reliable and transparent money transfers. We work to process every transfer accurately and quickly while following all applicable U.S. federal and state rules. If you ever have a question about a transfer, we're here to help.

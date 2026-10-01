@@ -1,0 +1,51 @@
+// CUSTOMER CARE — FAQ. Paste the official, approved answers into this file.
+//
+// Each "## " line is a question; the text under it is the answer (shown in an
+// expandable panel). Answers below are plain-language STAND-INS that keep the facts
+// of the live page (fiynix.com/customer-care). The live page's three Wix template
+// questions ("How do I add a new question & answer?" etc.) are intentionally left out.
+//
+// Format: ## question · - or • bullets · blank line = new paragraph
+// Links: [link text](/path) or [link text](mailto:info@fiynix.com)
+
+Have a question we haven't answered here? Email [info@fiynix.com](mailto:info@fiynix.com) and our team will help.
+
+## What services does Fiynix offer?
+
+Fiynix is a financial services company that makes sending money from the US to Africa simpler and more secure, starting with Nigeria. Our goal is to lead diaspora remittances to Africa with the best rates, while keeping every transfer easy and safe.
+
+## How much can I send with Fiynix?
+
+Sending limits depend on the destination country and the service you use. You can find our current transaction limits in our [Terms & Conditions](/terms-and-conditions#3-responsibility-to-you).
+
+## What security measures are in place to protect my funds?
+
+We protect your money with encryption, identity verification checks and compliance with regulatory standards.
+
+## What do I need to pick up my money transfer?
+
+You can collect your transfer at any of our agent locations. Bring:
+- The tracking number
+- Your full name and the sender's full name
+- The amount you are expecting
+- Your government-issued ID
+- The sender's country and state, city or province (sometimes required)
+
+## Are there any fees for using Fiynix?
+
+Yes. Our fees are explained in detail in our [Terms & Conditions](/terms-and-conditions#2-our-services).
+
+## What information do I need to send money?
+
+- Your government-issued ID, to show at the agent location
+- Cash or a debit card to pay the transfer amount and fees
+- Your receiver's first and last name, exactly as it appears on their government-issued ID
+- Your receiver's country, and in some cases their full address
+
+## Can my receiver pick up the money at any Fiynix location?
+
+If the money was sent for cash pickup outside the US, your receiver can collect it at any agent location in the receiving country chosen for the transfer. To change the payout country, contact Customer Care; your receiver can then collect the money at any agent location in the new country.
+
+## What does Fiynix do with my personal information?
+
+Our [Privacy Policy](/privacy-policy) explains what we do with your personal information.

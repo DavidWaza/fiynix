@@ -1,0 +1,117 @@
+@import 'tailwindcss';
+
+/*
+ * Design tokens. Components only reference these via Tailwind utilities
+ * (bg-primary, text-ink, font-display, ...) — never raw hex values.
+ *
+ * Contrast notes (WCAG AA):
+ * - white on primary (#FF5E1A) is ~3.1:1 and on primary-band (#E85C04) ~3.5:1
+ *   → OK for large/bold display text and decorative fills only. Small white
+ *   text should sit on primary-dark instead.
+ * - white on primary-dark (#B84A0C) is ~5.2:1; primary-dark on cream is ~4.8:1.
+ */
+@theme {
+  /* Sampled from the live site (fiynix.com) */
+  --color-primary: #ff5e1a;
+  --color-primary-band: #e85c04;
+  --color-primary-shade: #db5304;
+  --color-primary-dark: #b84a0c;
+  --color-primary-deep: #9a3d08;
+  --color-primary-soft: #fbd3c0;
+  --color-cream: #fff6ef;
+  --color-cream-deep: #fef0e5;
+  --color-ink: #1d0e03;
+  --color-muted: #5b5b5b;
+  --color-maroon: #8b3737;
+  --color-taupe: #56483e;
+  --color-surface: #ffffff;
+  --color-overlay: rgb(0 0 0 / 0.6);
+  --color-danger: #b42318;
+  --color-heart: #e5484d;
+  --color-avatar: #7e57c2;
+
+  --font-display: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+
+  --shadow-card: 0 1px 2px rgb(17 17 17 / 0.04), 0 8px 24px -6px rgb(17 17 17 / 0.1);
+  --shadow-card-hover: 0 2px 4px rgb(17 17 17 / 0.05), 0 18px 40px -12px rgb(17 17 17 / 0.18);
+
+  --header-height: 5rem;
+
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-typing: typing 1.2s ease-in-out infinite;
+
+  @keyframes typing {
+    0%,
+    60%,
+    100% {
+      transform: translateY(0);
+      opacity: 0.4;
+    }
+    30% {
+      transform: translateY(-3px);
+      opacity: 1;
+    }
+  }
+
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-14px);
+    }
+  }
+}
+
+@utility page-container {
+  margin-inline: auto;
+  width: 100%;
+  max-width: var(--container-7xl);
+  padding-inline: --spacing(4);
+
+  @variant sm {
+    padding-inline: --spacing(6);
+  }
+
+  @variant lg {
+    padding-inline: --spacing(8);
+  }
+}
+
+@utility eyebrow {
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+@layer base {
+  html {
+    scroll-padding-top: var(--header-height);
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-surface font-sans text-muted antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display text-ink;
+    text-wrap: balance;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary-dark;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+}
