@@ -14,17 +14,13 @@ export function isNavGroup(item: NavItem): item is NavGroup {
   return 'children' in item
 }
 
-export type FeatureIcon = 'shield' | 'receipt' | 'bolt' | 'headset'
+export type FeatureIcon = 'shield' | 'dollar' | 'chevrons' | 'chat'
 
 export interface Feature {
   number: string
   title: string
   description: string
   icon: FeatureIcon
-  /** Short benefit shown as a chip */
-  link: NavLink
-  /** Wide cards span two columns on desktop and show an illustration */
-  visual?: 'security' | 'chat'
 }
 
 export interface Step {

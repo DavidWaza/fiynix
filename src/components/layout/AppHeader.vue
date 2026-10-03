@@ -58,11 +58,15 @@ watch(
       </nav>
 
       <div class="flex items-center gap-2">
-        <GetStartedButton
-          :variant="transparent ? 'inverse' : 'primary'"
-          size="sm"
-          :class="['hidden sm:inline-flex', transparent && 'focus-visible:outline-white']"
-        />
+        <!-- Desktop only: on smaller screens it lives in the mobile menu.
+             Hidden via a wrapper because the button's own inline-flex would override `hidden`. -->
+        <div class="hidden lg:block">
+          <GetStartedButton
+            :variant="transparent ? 'inverse' : 'primary'"
+            size="sm"
+            :class="transparent && 'focus-visible:outline-white'"
+          />
+        </div>
 
         <button
           type="button"
@@ -77,15 +81,17 @@ watch(
           aria-label="Open menu"
           @click="mobileOpen = true"
         >
+          <!-- staggered lines: short / long / medium -->
           <svg
-            class="size-6"
+            class="size-7"
             viewBox="0 0 24 24"
             fill="none"
             stroke="currentColor"
             stroke-width="2"
+            stroke-linecap="round"
             aria-hidden="true"
           >
-            <path d="M4 7h16M4 12h16M4 17h16" stroke-linecap="round" />
+            <path d="M3.5 6.5h9M3.5 12h17M3.5 17.5h13" />
           </svg>
         </button>
       </div>

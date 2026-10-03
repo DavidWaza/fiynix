@@ -8,7 +8,7 @@ export const hero = {
 
 export const appIntro = {
   title: 'Send Money Across Borders Securely, Instantly & Easy way to our site.',
-  body: 'Track every transfer in real-time, sve your favourite recipients, and lock in great rates all from the Fiynix app.',
+  body: 'Track every transfer in real-time, save your favourite recipients, and lock in great rates all from the Fiynix app.',
 }
 
 export const smarterWay = {
